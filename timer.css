@@ -1,0 +1,54 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+}
+.heading1 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.input1 {
+    height:50px;
+    width:130px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    padding:10px;
+    background-color:transparent;
+
+}
+.title {
+    margin-top: 40px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    color:rgb(233, 100, 38)
+}
+.timers1 {
+    display: flex;
+    justify-content:space-between;
+    margin-top: 30px;
+    
+}
+.timer1 {
+    height: 100px;
+    width:100px;
+    margin:20px;
+    
+}
+.button1 {
+    width:100px;
+}
+.timers2 {
+    display: flex;
+    flex-direction: column;
+    margin:20px;
+    align-items: center;  
+}
+.min {
+    font-size: 30px;
+}
