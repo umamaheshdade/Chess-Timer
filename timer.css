@@ -46,6 +46,7 @@
 .timers2 {
     display: flex;
     flex-direction: column;
+    justtify-content:space-between;
     margin:20px;
     align-items: center;  
 }
